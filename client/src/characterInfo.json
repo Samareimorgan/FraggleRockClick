@@ -1,7 +1,65 @@
+[
 {
     "id": 1,
     "name": "Gobo Fraggle",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/gobofraggle.jpg"
+},
+
+{
+    "id": 2,
+    "name": "Red Fraggle",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/redfraggle.jpg"
+},
+{
+    "id": 3,
+    "name": "Wembley Fraggle",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/wembleyfraggle.jpg"
+},
+{
+    "id": 4,
+    "name": "Mokey Fraggle",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/mokeyfraggle.jpg"
+},
+{
+    "id": 5,
+    "name": "Boober Fraggle",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/Booberfraggle.jpg"
+},
+{
+    "id": 6,
+    "name": "Junior Gorg",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/juniorgorg.jpg"
+},
+
+{
+    "id": 7,
+    "name": "Marjory the Trash Heap",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/marjory-fraggle-rock.jpg"
+},
+{
+    "id": 8,
+    "name": "Gunge the Rat",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/gungerat.jpg"
+},
+{
+    "id": 9,
+    "name": "Storyteller Fraggle",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/storytellerfraggle.jpg"
+},
+{
+    "id": 10,
+    "name": "Doozer",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/doozer.jpg"
+},
+{
+    "id": 11,
+    "name": "Travelling Matt Fraggle",
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/travellingmatt.jpg"
+},
+{
+    "id": 12,
+    "name": "Sprocket",
+    "image": 
+    "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/sprocket.jpg"
 }
+]

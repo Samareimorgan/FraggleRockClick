@@ -1,0 +1,39 @@
+.container {
+    background: #ffffff;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+} 
+
+.img-container{ 
+    border: 2px solid #eee;
+    height: 150px;
+    display: inline-block;
+    width: 150px;
+    box-shadow: 0 3px 6px #999;
+  }
+
+.characterImage {
+    height: 220px;
+    width: 220px;
+    padding: 5px; 
+}
+
+.gallery {
+    background: #ffffff;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+} 
+
+.desc {
+    background: #6e148a;
+    color: #ffffff;
+    padding: 10px;
+    width: 220px;
+    border: 1px solid #cccccc;
+    position: absolute;
+    bottom: 8%;
+}
