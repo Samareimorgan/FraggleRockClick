@@ -1,0 +1,11 @@
+.jumbo {
+    width: 100%;
+    text-align: center;
+  
+  }
+.jumbotron {
+  height: 225px;
+  background-color: black;
+  border: 3px double  #6e148a;
+  color:  #6e148a;
+}

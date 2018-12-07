@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import CharacterCard from "./components/CharacterCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
+import NavBar from "./components/Navbar";
+import Jumbotron from "./components/Jumbotron";
 import characters from "./characterInfo.json";
 
 class App extends Component {
@@ -15,7 +16,9 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        
+        <NavBar />
+        <Jumbotron />
+       
         {this.state.characters.map(characterInfo => (
           <CharacterCard
             id={characterInfo.id}

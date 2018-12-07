@@ -1,23 +1,11 @@
-.container {
-    background: #ffffff;
-    float: left;
-    margin-right: 10px;
-    margin-top: 10px;
-    position: relative;
-} 
-
-.img-container{ 
-    border: 2px solid #eee;
-    height: 150px;
-    display: inline-block;
-    width: 150px;
-    box-shadow: 0 3px 6px #999;
-  }
 
 .characterImage {
-    height: 220px;
-    width: 220px;
-    padding: 5px; 
+    height: 240px;
+    width: 240px;
+    padding: 8px; 
+    margin: 5px;
+    border: 2px solid black;
+    display: inline-block;
 }
 
 .gallery {
@@ -31,9 +19,10 @@
 .desc {
     background: #6e148a;
     color: #ffffff;
-    padding: 10px;
-    width: 220px;
+    padding: 5px;
+    width: 250px;
     border: 1px solid #cccccc;
     position: absolute;
     bottom: 8%;
+    font-size: 20px;
 }
