@@ -1,12 +1,9 @@
 
 .navbar {
-    font-size: 25px;
-
     align-content: center;
     width: 100%;
     font-size: 25px;
- 
     background-color: #6e148a;
     color: White;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }

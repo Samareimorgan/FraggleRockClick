@@ -32,4 +32,11 @@ class App extends Component {
   }
 }
 
+//  Create a blank array.
+// Add click event that when user clicks on a character card, the id number is compared to the id numbers in the array. 
+//If the id number matches one already in the array, then indicates that the guess is wrong and does an animate shakes then it resets the score. 
+// if the id does not match one already in an array, then the id is pushed to the array, indicates that the guess was correct and the score goes up by 1. 
+
+//Function if score = 12, the game is over and the player has won. Play new game button appears. 
+
 export default App;

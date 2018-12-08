@@ -1,7 +1,7 @@
 
 .characterImage {
-    height: 240px;
-    width: 240px;
+    height: 175px;
+    width: 175px;
     padding: 8px; 
     margin: 5px;
     border: 2px solid black;
@@ -11,8 +11,8 @@
 .gallery {
     background: #ffffff;
     float: left;
-    margin-right: 10px;
-    margin-top: 10px;
+    margin-right: 8px;
+    margin-top: 8px;
     position: relative;
 } 
 
@@ -20,9 +20,9 @@
     background: #6e148a;
     color: #ffffff;
     padding: 5px;
-    width: 250px;
+    width: 185px;
     border: 1px solid #cccccc;
     position: absolute;
     bottom: 8%;
-    font-size: 20px;
+    font-size: 16px;
 }
