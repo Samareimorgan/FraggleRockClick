@@ -2,44 +2,52 @@
 {
     "id": 1,
     "name": "Gobo Fraggle",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/gobofraggle.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/gobofraggle.jpg",
+    "clicked": false
 },
 
 {
     "id": 2,
     "name": "Red Fraggle",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/redfraggle.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/redfraggle.jpg",
+    "clicked": false
 },
 {
     "id": 3,
     "name": "Wembley Fraggle",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/wembleyfraggle.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/wembleyfraggle.jpg",
+    "clicked": false
 },
 {
     "id": 4,
     "name": "Mokey Fraggle",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/mokeyfraggle.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/mokeyfraggle.jpg",
+    "clicked": false
 },
 {
     "id": 5,
     "name": "Boober Fraggle",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/Booberfraggle.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/Booberfraggle.jpg",
+    "clicked": false
 },
 {
     "id": 6,
     "name": "Junior Gorg",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/juniorgorg.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/juniorgorg.jpg",
+    "clicked": false
 },
 
 {
     "id": 7,
     "name": "Marjory the Trash Heap",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/marjory-fraggle-rock.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/marjory-fraggle-rock.jpg",
+    "clicked": false
 },
 {
     "id": 8,
     "name": "Gunge the Rat",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/gungerat.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/gungerat.jpg",
+    "clicked": false
 },
 {
     "id": 9,
@@ -49,17 +57,20 @@
 {
     "id": 10,
     "name": "Doozer",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/doozer.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/doozer.jpg",
+    "clicked": false
 },
 {
     "id": 11,
     "name": "Travelling Matt Fraggle",
-    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/travellingmatt.jpg"
+    "image": "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/travellingmatt.jpg",
+    "clicked": false
 },
 {
     "id": 12,
     "name": "Sprocket",
     "image": 
-    "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/sprocket.jpg"
+    "https://raw.githubusercontent.com/Samareimorgan/FraggleRockClick/master/client/public/images/sprocket.jpg",
+    "clicked": false
 }
 ]

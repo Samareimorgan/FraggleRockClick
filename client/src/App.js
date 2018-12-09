@@ -5,10 +5,25 @@ import NavBar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import characters from "./characterInfo.json";
 
+let currentScore = 0;
+let topScore = 0;
+
+
 class App extends Component {
-  // Setting this.state.character to the characters json array
+  // Setting up state
   state = {
-    characters
+    currentScore, 
+
+    topScore,
+
+    characters,
+
+    shuffleCharacters: this.mixArray(),
+
+    allCharacters: [1,2,3,4,5,6,7,8,9,10,11,12],
+
+    alreadyClicked: []
+
   };
 
 
