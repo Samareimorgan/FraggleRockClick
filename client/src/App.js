@@ -32,7 +32,7 @@ class App extends Component {
     message = "Oh No!!! You need to improve your memory. Start Over.";
 
     (this.state.clickedCharacters.map)= () => {
-      characters[i].clicked = false;
+      characters[0].clicked = false;
     }
       
   }
