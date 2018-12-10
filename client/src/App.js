@@ -7,6 +7,8 @@ import characters from "./characterInfo.json";
 
 let currentScore = 0;
 let topScore = 0;
+let correctClicks=0;
+let message = "";
 
 
 class App extends Component {
@@ -17,15 +19,34 @@ class App extends Component {
     topScore,
 
     characters,
+    
+    correctClicks,
 
-    shuffleCharacters: this.mixArray(),
-
-    allCharacters: [1,2,3,4,5,6,7,8,9,10,11,12],
-
-    alreadyClicked: []
-
+    message, 
   };
+  
 
+  resetGame = () => {
+    correctClicks = 0;
+    currentScore = 0;
+    message = "Oh No!!! You need to improve your memory. Start Over.";
+
+    (this.state.clickedCharacters.map)= () => {
+      characters[i].clicked = false;
+    }
+      
+  }
+
+  setClicked = id => {
+    const characters = this.state.characters;
+    const clickedCharacter=characters.filter(characters => characters.id === id);
+
+    if (clickedCharacter[0].clicked) {
+      this.resetGame();
+      
+    }
+      else()
+  }
 
   // Map over this.state.characters and render a CharacterCard component for each friend object
   render() {
