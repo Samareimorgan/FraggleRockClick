@@ -45,7 +45,7 @@ class App extends Component {
       this.resetGame();
       
     }
-      else()
+      //else()
   }
 
   // Map over this.state.characters and render a CharacterCard component for each friend object
